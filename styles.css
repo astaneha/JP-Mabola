@@ -285,6 +285,8 @@ padding: 8px 3px !important;
     padding: 7px;
     text-decoration: none;
     text-overflow: ellipsis;
+    direction:ltr;
+    text-align:center;
 }
 
 .records-table thead th, .records-table thead td {
