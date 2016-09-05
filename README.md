@@ -1,5 +1,6 @@
-Mabola: Skin for Roundcube Webmail
+RTL & Persian Mabola: Skin for Roundcube Webmail
 ==================================
+www.joomplus.ir
 
 Tested on Roundcube 1.2-beta and 1.1.4
 
@@ -8,8 +9,6 @@ Mabola is a clean and usable skin for latest Roundcube Webmail (http://roundcube
 It supports Threecol plugin. Check it out at EstudioNexos/threecol.
 
 Icons are from https://github.com/laclasse-com/roundcube_laclasse_skin.
-
-Screenshots at http://www.estudionexos.com/mabola-skin-for-roundcube.html
 
 LICENSE for Mabola Skin: GNU General Public License v3 
 See http://www.gnu.org/licenses/gpl-3.0.en.html for details
