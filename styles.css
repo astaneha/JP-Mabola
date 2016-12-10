@@ -479,6 +479,9 @@ a.button, .buttongroup {
     will-change: box-shadow, transform;
     color: #525252;
     text-shadow: none;
+    font-family: yekan;
+
+
 }
 
 input.button.mainaction:hover {
@@ -966,7 +969,7 @@ a.button span.icon, .boxpagenav a.icon, .pagenav a.button span.inner {
 }
 
 .boxpagenav {
-    /*position: absolute;*/
+    position: unset;
     right: 6px;
     top: 10px;
     width: auto;
