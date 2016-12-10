@@ -354,7 +354,7 @@ ul.listing li {
     background: transparent none repeat scroll 0 0;
     box-shadow: none;
     color: #fff;
-    padding: 2px 109px;}
+}
 
 
 .folderlist li.mailbox .unreadcount {
@@ -362,7 +362,6 @@ ul.listing li {
     border-radius: 0px;
     box-shadow: none;
     color: #000;
-    padding-right: 7px;
 
 }
 
@@ -612,7 +611,7 @@ html.mozilla #mailboxlist > li:first-child {
 }
 
 ul.toolbarmenu li span.icon, #rcmKSearchpane ul li i.icon {
-   background-image: url("images/listicons.png");
+   /*background-image: url("images/listicons.png");*/
    font-size: 12px;
    min-height: 14px;
    opacity: 1;
