@@ -701,6 +701,8 @@ ul.proplist li, table.propform td {
     background: #fff none repeat scroll 0 0;
     border-bottom: 0 solid #ccc;
     color: #222;
+    width: 99%;
+
 }
 
 .listbox .listitem, .listbox .tablink, .listing tbody td, .listing li {
