@@ -1,4 +1,4 @@
-RTL & Persian Mabola: Skin for Roundcube Webmail
+RTL & Persian - Arabic Mabola version : Skin for Roundcube Webmail
 ==================================
 www.joomplus.ir
 
