@@ -309,7 +309,7 @@ input[type="text"], input[type="password"], textarea, select {
     background: #fff none repeat scroll 0 0;
     border-color: #eee;
     border-bottom: 1px solid #b2b2b2;
-    padding: 3px 30px 7px 34px;
+    padding: 13px 30px 7px 34px;
 }
 
 .toolbar a.button {
@@ -491,7 +491,7 @@ input.button.mainaction:hover {
 
 .minimal #taskbar a.button-selected,
 #taskbar a.button-selected {
-    border-bottom: 2px solid #2FD167;
+    border-bottom: 2px solid #000000;
     color: #fff;
 }
 
