@@ -354,8 +354,7 @@ ul.listing li {
     background: transparent none repeat scroll 0 0;
     box-shadow: none;
     color: #fff;
-    padding-right: 7px;
-}
+    padding: 2px 109px;}
 
 
 .folderlist li.mailbox .unreadcount {
@@ -363,7 +362,8 @@ ul.listing li {
     border-radius: 0px;
     box-shadow: none;
     color: #000;
-    padding: 2px 109px;
+    padding-right: 7px;
+
 }
 
 
