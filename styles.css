@@ -826,6 +826,7 @@ a.button span.icon, .boxpagenav a.icon, .pagenav a.button span.inner {
 
 .ui-widget-content {
     background: #fff none repeat scroll 0 0;
+    font-family: yekan
 }
 .ui-tabs .ui-tabs-panel {
     background: #fff none repeat scroll 0 0;
