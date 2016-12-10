@@ -964,3 +964,10 @@ a.button span.icon, .boxpagenav a.icon, .pagenav a.button span.inner {
     color: #004458;
     text-decoration: underline;
 }
+
+.boxpagenav {
+    /*position: absolute;*/
+    right: 6px;
+    top: 10px;
+    width: auto;
+}
